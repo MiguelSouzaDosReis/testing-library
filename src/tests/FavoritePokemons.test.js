@@ -1,7 +1,5 @@
 import React from 'react';
-import { MemoryRouter } from 'react-router'; //! Router
-/* import { createMemoryHistory } from 'history';
-import userEvent from '@testing-library/user-event'; */
+import { MemoryRouter } from 'react-router';
 import userEvent from '@testing-library/user-event';
 import { FavoritePokemons } from '../components';
 import App from '../App';
