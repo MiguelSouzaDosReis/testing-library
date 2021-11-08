@@ -1,8 +1,6 @@
 import React from 'react';
 import { MemoryRouter } from 'react-router';
-/* import userEvent from '@testing-library/user-event'; */
 import { NotFound } from '../components';
-/* import App from '../App'; */
 
 const { render, screen } = require('@testing-library/react');
 
